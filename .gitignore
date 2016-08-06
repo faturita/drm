@@ -1,0 +1,5 @@
+**/ipch
+**/*.sdf
+Debug/*
+drmtest/Debug
+**/*.log
